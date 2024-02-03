@@ -7,7 +7,7 @@ This repository contains PHP forms with API endpoints for user authentication, r
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/PhpFormsWithApi.git
+   git clone https://github.com/BunnyHAWPer/PhpFormsWithApi.git
 
 2) Import MySQL tables from the tables folder:
 
